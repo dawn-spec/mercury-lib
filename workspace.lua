@@ -19,6 +19,10 @@ developers:
 v3rm AbstractPoo	discord Abstract#8007
 v3rm 0xDEITY		discord Deity#0228
 
+THANK YOU A LOT TO THE MAIN DEVS!! (above this message)
+
+dawn#9990 - made a script out of this lib
+
 ]]
 
 local TweenService = game:GetService("TweenService")
