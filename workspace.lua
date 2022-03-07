@@ -464,8 +464,6 @@ function Library:create(options)
 		ZIndexBehavior = Enum.ZIndexBehavior.Global
 	})
 
-    gui.Name = 'Azurine'
-
 	local notificationHolder = gui:object("Frame", {
 		AnchorPoint = Vector2.new(1, 1),
 		BackgroundTransparency = 1,
